@@ -1,12 +1,24 @@
-# React + Vite
+# 🧪 React Practice Project: Props, useState & Hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a basic **React** practice focused on understanding and applying key concepts such as:
 
-Currently, two official plugins are available:
+- **Props** for passing data between components  
+- **useState** for managing local state  
+- **Custom Hooks** for reusing logic
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Purpose
 
-## Expanding the ESLint configuration
+Explore how props and hooks work in React through simple, functional examples. Perfect for beginners or anyone looking to reinforce these concepts.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies
+
+- React (using Vite or Create React App)  
+- JavaScript (ES6+)  
+- Basic CSS
+
+## 📦 Installation
+git clone https://github.com/your-username/react-practice-props-hooks.git
+cd react-practice-props-hooks
+npm install
+npm run dev
+
